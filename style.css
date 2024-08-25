@@ -1,0 +1,17 @@
+img{
+    margin: 10px;
+    width: 18rem;
+    height: auto;
+    object-fit: contain;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
